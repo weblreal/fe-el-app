@@ -22,6 +22,7 @@ const Home = ({ data }: { data: any }) => {
   );
 };
 
+
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: [{ params: { page: ["/"] } }],
