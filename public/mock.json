@@ -1,0 +1,483 @@
+{
+  "Navigation": {
+    "superHeader": "",
+    "logo": "",
+    "LevelOneLinks": [
+      {
+        "label": "GROUP",
+        "url": "#"
+      },
+      {
+        "label": "BRANDS",
+        "url": "#"
+      },
+      {
+        "label": "GOVERNANCE",
+        "url": "#"
+      },
+      {
+        "label": "COMMITMENTS",
+        "url": "#"
+      },
+      {
+        "label": "INVESTORS",
+        "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "LevelTwoLinks": [
+          {
+            "label": "Overview",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          },
+          {
+            "label": "Publications",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          },
+          {
+            "label": "Regulatory Information",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          },
+          {
+            "label": "Annual Shareholders Meeting",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          },
+          {
+            "label": "Stock and shareholders information",
+            "longText": "",
+            "LevelThreeLinks": [
+              {
+                "label": "Real time quotation",
+                "url": "#"
+              },
+              {
+                "label": "How to become a shareholder",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "label": "Debt Financing",
+            "LevelThreeLinks": [
+              {
+                "label": "Real time quotation",
+                "url": "#"
+              },
+              {
+                "label": "How to become a shareholder",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "label": "Individual shareholder",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          },
+          {
+            "label": "Events",
+            "longText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "CAREERS",
+        "url": "#"
+      },
+      {
+        "label": "NEWS ROOM",
+        "url": "#"
+      }
+    ]
+  },
+  "HeroImageFullscreen": {
+    "header": "See more. Be more.",
+    "backgroundImage": {
+      "desktop": "/Images/dummy2.jpg"
+    }
+  },
+  "QuoteBanner": {
+    "longText": "Empowering people to shape a brighter tomorrow."
+  },
+  "BlurredSlider": {
+    "header": "Who we are",
+    "backgroundImage": "/Images/01-mission.jpg",
+    "longText": "We have a fully integrated approach, from R&D and product development to a robust supply chain that allows us to produce a complete pair of branded frames with advanced lens technology, to our omnichannel platform",
+    "slides": [
+      {
+        "alt": "Test",
+        "src": "/Images/dummy.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy3.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      },
+      {
+        "alt": "Test",
+        "src": "/Images/dummy2.jpg"
+      }
+    ]
+  },
+  "PressReleases": {
+    "header": "Press Releases",
+    "slides": [
+      {
+        "title": "Luxottica undertakes to acquire 90.9% of Fedon to enter the packaging...",
+        "date": "01 Apr 2022",
+        "cta": {
+          "label": " Read more",
+          "url": "#"
+        }
+      },
+      {
+        "title": "Luxottica undertakes to acquire 90.9% of Fedon to enter the packaging...",
+        "date": "02 Apr 2022",
+        "cta": {
+          "label": " Read more",
+          "url": "#"
+        }
+      },
+      {
+        "title": "Luxottica undertakes to acquire 90.9% of Fedon to enter the packaging...",
+        "date": "03 Apr 2022",
+        "cta": {
+          "label": " Read more",
+          "url": "#"
+        }
+      },
+      {
+        "title": "Luxottica undertakes to acquire 90.9% of Fedon to enter the packaging...",
+        "date": "04 Apr 2022",
+        "cta": {
+          "label": " Read more",
+          "url": "#"
+        }
+      }
+    ]
+  },
+  "Footer": {
+    "data": {
+      "footerData": {
+        "links": [
+          {
+            "label": "Home",
+            "url": "#"
+          },
+          {
+            "label": "About",
+            "url": "#"
+          },
+          {
+            "label": "Brands",
+            "url": "#"
+          },
+          {
+            "label": "Governance",
+            "url": "#"
+          },
+          {
+            "label": "Commitments",
+            "url": "#"
+          },
+          {
+            "label": "Investors",
+            "url": "#"
+          },
+          {
+            "label": "Careers",
+            "url": "#"
+          },
+          {
+            "label": "Newsroom",
+            "url": "#"
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "Essilor.com",
+            "url": "#"
+          },
+          {
+            "label": "Luxottica.com",
+            "url": "#"
+          }
+        ]
+      },
+      "socialData": [
+        {
+          "icon": "linkedin",
+          "url": "#"
+        },
+        {
+          "icon": "facebook",
+          "url": "#"
+        },
+        {
+          "icon": "twitter",
+          "url": "#"
+        },
+        {
+          "icon": "instagram",
+          "url": "#"
+        }
+      ],
+      "subFooterData": {
+        "copyright": "&copy; EssilorLuxottica 2022",
+        "links": [
+          {
+            "label": "Contacts",
+            "url": "#"
+          },
+          {
+            "label": "Legal Notice",
+            "url": "#"
+          },
+          {
+            "label": "Privacy Notice",
+            "url": "#"
+          },
+          {
+            "label": "Cookie policy",
+            "url": "#"
+          },
+          {
+            "label": "Sitemap",
+            "url": "#"
+          },
+          {
+            "label": "Accessibility",
+            "url": "#"
+          }
+        ]
+      }
+    }
+  },
+  "FinancialInfo": {
+    "header1": "Next events",
+    "header2": "Email investors alert",
+    "subtitle": "Subscribe to our Latest News and Announcements",
+    "events": [
+      {
+        "date": "25 May 2022",
+        "title": "Annual Shareholders Meeting",
+        "link": {
+          "label": "Add to calendar",
+          "url": "#"
+        }
+      },
+      {
+        "date": "25 May 2022",
+        "title": "H1 2022 results presentation",
+        "link": {
+          "label": "Add to calendar",
+          "url": "#"
+        }
+      }
+    ],
+    "cta": {
+      "label": "View investors page",
+      "url": "#"
+    }
+  },
+  "NumbersModule": {
+    "slide": [
+      {
+        "backgroundImage": "/Images/dummy4.jpg",
+        "header": "+180.000",
+        "longText": "EssilorLuxotticans"
+      },
+      {
+        "backgroundImage": "/Images/dummy5.jpg",
+        "header": "+150",
+        "longText": "Countries"
+      },
+      {
+        "backgroundImage": "/Images/dummy6.jpg",
+        "header": "18.000",
+        "longText": "Stores"
+      },
+      {
+        "backgroundImage": "/Images/dummy7.jpg",
+        "header": "+21.5",
+        "longText": "Billion revenues"
+      }
+    ]
+  },
+  "HorizontalDivider": {
+    "longText": "Our portfolio includes some of the most loved and most trusted vision care eyewear brands in the world.",
+    "cta": {
+      "label": "Explore our brands",
+      "url": "#"
+    }
+  },
+  "BrandsModule": {
+    "brands": [
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      },
+      {
+        "backgroundImage": "/Images/dummy.jpg",
+        "logo": "/Images/rayban.svg",
+        "category": "EYEWEAR BRANDS"
+      }
+    ]
+  },
+  "OverviewBanner": {
+    "title": "Framing beauty",
+    "longText": "Aiming to serve everyone’s unique vision requirements in the best possible way.",
+    "picture1": "/Images/M_Overview.png",
+    "picture2": "/Images/M_Overview.png"
+  },
+  "ImageBanner": {
+    "image1": "/Images/dummy.jpg",
+    "image2": "/Images/dummy2.jpg",
+    "title1": "Mission",
+    "title2": "Overview",
+    "longText1": "We promise a brighter future for the hundreds of millions of people we serve globally.",
+    "longText2": "We bring together our world-leading expertise in lens and eyewear technology.",
+    "cta1": "Explore our global priority",
+    "cta2": "Explore our vision"
+  },
+  "StoriesCarousel": {
+    "header": "Stories",
+    "longText": "Every day, everywhere we work, we seek out new ways to help people see more and be more. Discover our lastest stories from EssiorLuxottica world.",
+    "cta": {
+      "label": "Read all stories",
+      "url": "#"
+    },
+    "slides": [
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "cta": {
+          "label": "Read more",
+          "url": "#"
+        },
+        "date": "03 Feb 2022",
+        "title": "Eizen Kids Lenses: Designed for how they see the new world"
+      },
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "cta": {
+          "label": "Read more",
+          "url": "#"
+        },
+        "date": "03 Feb 2022",
+        "title": "Eizen Kids Lenses: Designed for how they see the new world"
+      },
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "cta": {
+          "label": "Read more",
+          "url": "#"
+        },
+        "date": "03 Feb 2022",
+        "title": "Eizen Kids Lenses: Designed for how they see the new world"
+      },
+      {
+        "backgroundImage": "/Images/dummy2.jpg",
+        "cta": {
+          "label": "Read more",
+          "url": "#"
+        },
+        "date": "03 Feb 2022",
+        "title": "Eizen Kids Lenses: Designed for how they see the new world"
+      }
+    ]
+  },
+  "AnimatedBanner": {
+    "cta": {
+      "label": "Visit our Careers page",
+      "url": "#"
+    },
+    "backgroundImage": "/Images/dummy2.jpg",
+    "header": "Embrace our vision. Step into the EssilorLuxottica world."
+  }
+}

@@ -1,0 +1,329 @@
+#__tealiumGDPRecModal *,
+#__tealiumGDPRcpPrefs * {
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
+}
+
+#__tealiumGDPRecModal .privacy_prompt1 {
+  position: fixed;
+  top: auto;
+  bottom: 0;
+  left: 0;
+  z-index: 100000000;
+  width: 100% !important;
+  height: auto;
+  padding: 40px !important;
+
+  background-color: #000;
+  color: #fff;
+}
+
+#__tealiumGDPRecModal .privacy_prompt_content1 {
+  font-family: var(--AvenirLight) !important;
+  font-size: 18px !important;
+  font-weight: 300 !important;
+  margin-bottom: 24px;
+}
+
+/* Buttons */
+#__tealiumGDPRecModal #consent_prompt_submit {
+  padding-top: unset !important;
+  padding: 14.5px 18px !important;
+  margin: 0 !important;
+
+  height: auto !important;
+  width: fit-content !important;
+
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+  font-size: 16px !important;
+  text-transform: none;
+}
+
+#__tealiumGDPRecModal #consent_prompt_submitNo {
+  padding-top: unset !important;
+  padding: 14.5px 18px !important;
+  margin: 0 !important;
+
+  height: auto !important;
+  width: fit-content !important;
+
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+  font-size: 16px !important;
+  text-transform: none;
+
+  background-color: transparent !important;
+  color: white !important;
+  box-shadow: 0 0 1px 1px inset white !important;
+  margin-right: 24px !important;
+}
+
+#__tealiumGDPRecModal #consent_prompt_pref a {
+  text-decoration: none !important;
+}
+
+#__tealiumGDPRecModal #consent_prompt_pref {
+  text-decoration: none !important;
+}
+
+#__tealiumGDPRecModal #consent_prompt_pref .privacy_prompt_content2 {
+  padding-top: unset !important;
+  padding: 14.5px 18px !important;
+  margin: 0 !important;
+
+  height: auto !important;
+  width: fit-content !important;
+
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+  font-size: 16px !important;
+  text-transform: none;
+
+  background-color: transparent !important;
+  color: white !important;
+  box-shadow: 0 0 1px 1px inset white !important;
+  margin-right: 24px !important;
+}
+
+#__tealiumGDPRecModal a {
+  display: inline !important;
+}
+
+/* PRIVACY PREFERENCES */
+#__tealiumGDPRcpPrefs .privacy_prompt {
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+  font-size: 16px !important;
+  color: white !important;
+
+  background-color: black !important;
+  border: 0 !important;
+
+  max-width: calc(1025px) !important;
+
+  width: 100% !important;
+
+  margin: unset !important;
+  left: 50% !important;
+  transform: translateX(-50%);
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt_content > .sdgdpradv_headline {
+  color: white !important;
+}
+
+#__moreAge1 {
+  font-size: 18px !important;
+  margin-top: 24px;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt table td {
+  padding: 0 !important;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt .sdgdpradv_td_category {
+  font-family: var(--AvenirBold) !important;
+  font-weight: 900 !important;
+  font-size: 14px !important;
+  color: white !important;
+
+  letter-spacing: normal !important;
+  line-height: normal !important;
+
+  padding-bottom: 4px !important;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt .sdgdpradv_td_desc {
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+  font-size: 14px !important;
+  color: white !important;
+
+  letter-spacing: normal !important;
+  line-height: normal !important;
+  padding-bottom: 24px !important;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt .sdgdpradv_td_status {
+  padding-right: 16px !important;
+  display: flex;
+  align-items: center;
+}
+
+/* Toggle */
+#__tealiumGDPRcpPrefs .privacy_prompt input[type="checkbox"].toggle + label {
+  max-height: 19px !important;
+  background-color: #6aa671 !important;
+  width: 32px !important;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt input[type="checkbox"].toggle + label .on,
+#__tealiumGDPRcpPrefs
+  .privacy_prompt
+  input[type="checkbox"].toggle
+  + label
+  .off {
+  display: none !important;
+}
+
+#__tealiumGDPRcpPrefs
+  .privacy_prompt
+  input[type="checkbox"].toggle
+  + label:before,
+.privacy_prompt input[type="checkbox"].toggle + label:hover:before {
+  height: 17px !important;
+  width: 17px !important;
+  top: 1px !important;
+  left: 1px !important;
+}
+
+#__tealiumGDPRcpPrefs
+  .privacy_prompt
+  input[type="checkbox"].toggle:checked
+  + label:before,
+.privacy_prompt input[type="checkbox"].toggle:checked + label:hover:before,
+.privacy_prompt input[type="checkbox"].toggle:focus:checked + label:before,
+.privacy_prompt
+  input[type="checkbox"].toggle:focus:checked
+  + label:hover:before {
+  margin-left: unset !important;
+  left: 14px !important;
+}
+
+/* Ok */
+#preferences_prompt_submit {
+  border-radius: 0 !important;
+  border: none !important;
+}
+
+/* Privacy */
+#__tealiumGDPRcpPrefs .privacy_prompt .__button {
+  background-color: white !important;
+  color: black !important;
+
+  padding: 14.5px 18px !important;
+  margin-left: auto !important;
+
+  font-family: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+}
+
+#__tealiumGDPRcpPrefs hr {
+  display: none;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt_content {
+  padding-top: 53.5px !important;
+}
+
+/* Close */
+#__tealiumGDPRcpPrefs .privacy_prompt_content > .close_btn_thick {
+  width: 40px !important;
+  height: 40px !important;
+  text-shadow: none !important;
+  background-color: transparent !important;
+  border: none !important;
+  font-size: var(--AvenirLight) !important;
+  font-weight: 300 !important;
+
+  top: 48px !important;
+  right: 40px !important;
+}
+
+#__tealiumGDPRcpPrefs .privacy_prompt_content > .close_btn_thick:after {
+  padding: 0 !important;
+  width: 40px !important;
+  height: 40px !important;
+
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+
+  font: 40px var(--AvenirLight) !important;
+}
+
+@media (max-width: 1023px) {
+  #__tealiumGDPRecModal .privacy_prompt1 {
+    padding: 16px !important;
+    padding-bottom: 1px !important;
+  }
+
+  #__tealiumGDPRecModal #consent_prompt_submit {
+    width: 100% !important;
+  }
+
+  #__tealiumGDPRecModal #consent_prompt_submitNo {
+    width: 100% !important;
+    margin-right: 0 !important;
+    margin-top: 8px !important;
+  }
+
+  #__tealiumGDPRecModal #consent_prompt_pref {
+    width: 100% !important;
+    display: flex !important;
+    margin-top: -7px !important;
+    margin-bottom: 0px !important;
+  }
+
+  #__tealiumGDPRecModal #consent_prompt_pref .privacy_prompt_content2 {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+
+  #__tealiumGDPRecModal #consent_prompt_pref .privacy_prompt_content2 a {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+
+  /* Privacy */
+  #__tealiumGDPRcpPrefs .privacy_prompt {
+    height: 100vh !important;
+    top: 0 !important;
+  }
+
+  #__tealiumGDPRcpPrefs .privacy_prompt_content {
+    padding: 16px !important;
+    padding-top: 24px !important;
+  }
+
+  #__tealiumGDPRcpPrefs .privacy_prompt .sdgdpradv_headline {
+    font-size: 18px !important;
+  }
+
+  #__moreAge1 {
+    margin-top: 8px;
+    font-size: 16px !important;
+  }
+
+  #__tealiumGDPRcpPrefs .privacy_prompt table {
+    margin-top: 24px !important;
+  }
+
+  #__tealiumGDPRcpPrefs .privacy_prompt_content table tbody tr {
+    display: table-row !important;
+    padding: 16px !important;
+  }
+
+  #__tealiumGDPRcpPrefs .sdgdpradv_td_desc {
+    width: 100% !important;
+  }
+
+  #__tealiumGDPRcpPrefs .privacy_prompt_footer {
+    padding-bottom: 24px !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  #preferences_prompt_submit {
+    width: 100% !important;
+    margin-top: auto !important;
+  }
+
+  /* Close */
+  #__tealiumGDPRcpPrefs .privacy_prompt_content > .close_btn_thick {
+    top: 16px !important;
+    right: 16px !important;
+  }
+}
