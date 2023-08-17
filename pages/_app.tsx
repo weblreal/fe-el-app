@@ -74,19 +74,19 @@ const AvenirLight = localFont({
 
 export default function App({ Component, pageProps }: AppProps) {
   // Tealium
-  useGetTealiumConsentPrivacyLink();
-  const cookies = globalThis?.window?.document.body;
+  // useGetTealiumConsentPrivacyLink();
+  // const cookies = globalThis?.window?.document.body;
 
-  useEffect(() => {
-    if (cookies?.classList?.length === 0) {
-      cookies.classList.add(`${AvenirRegular.variable}`);
-      cookies.classList.add(`${AvenirBold.variable}`);
-      cookies.classList.add(`${AvenirBlack.variable}`);
-      cookies.classList.add(`${AvenirRoman.variable}`);
-      cookies.classList.add(`${AvenirMedium.variable}`);
-      cookies.classList.add(`${AvenirLight.variable}`);
-    }
-  }, [cookies?.classList]);
+  // useEffect(() => {
+  //   if (cookies?.classList?.length === 0) {
+  //     cookies.classList.add(`${AvenirRegular.variable}`);
+  //     cookies.classList.add(`${AvenirBold.variable}`);
+  //     cookies.classList.add(`${AvenirBlack.variable}`);
+  //     cookies.classList.add(`${AvenirRoman.variable}`);
+  //     cookies.classList.add(`${AvenirMedium.variable}`);
+  //     cookies.classList.add(`${AvenirLight.variable}`);
+  //   }
+  // }, [cookies?.classList]);
 
   return (
     <div
@@ -103,11 +103,11 @@ export default function App({ Component, pageProps }: AppProps) {
       <Favicons />
       <WrapperImg />
 
-      <AdobeAnalytics
+      {/* <AdobeAnalytics
         pageType={
           (pageProps?.data || { pageType: "Error" })?.pageType || "Static"
         }
-      />
+      /> */}
 
       <Provider store={store}>
         <ThemeContextProvider defaultTheme="Light Theme">
