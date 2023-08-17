@@ -109,11 +109,11 @@ export default function App({ Component, pageProps }: AppProps) {
         }
       />
 
-      {/* <Provider store={store}> */}
+      <Provider store={store}>
         <ThemeContextProvider defaultTheme="Light Theme">
           <Component {...pageProps} />
         </ThemeContextProvider>
-      {/* </Provider> */}
+      </Provider>
 
       <div id="portal"></div>
       <div id="__tealiumGDPRecModal"></div>
